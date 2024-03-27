@@ -1,4 +1,4 @@
-
+//001 : 자바스크립트로 JWT 토큰을 발급하고 검증하기
 // npm i jsonwebtoken
 const jwt = require('jsonwebtoken');
 
